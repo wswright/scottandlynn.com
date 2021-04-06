@@ -60,8 +60,8 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Scott & Lynn are getting married!`}
-      description="Scott & Lynn">
+      title={`Lynn and Scott are getting married!`}
+      description="Lynn and Scott">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

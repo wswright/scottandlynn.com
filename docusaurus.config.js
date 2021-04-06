@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Scott and Lynn.com',
+  title: 'Lynn and Scott.com',
   tagline: 'We are getting married!',
-  url: 'https://scottandlynn.com',
+  url: 'https://lynnandscott.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'scottandlynn.com', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'ScottandLynn.com',
+      title: 'LynnandScott.com',
       logo: {
         alt: 'We are getting married!',
         src: 'img/logo.svg',
