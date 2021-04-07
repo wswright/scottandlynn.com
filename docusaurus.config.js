@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/wswright/',
+          href: 'https://github.com/wswright/scottandlynn.com',
           label: 'GitHub',
           position: 'right',
         },
