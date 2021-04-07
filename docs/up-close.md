@@ -1,6 +1,6 @@
 ---
 title: Up close
-slug: /up-close
+slug: /
 ---
 ![Us up close](/img/2I5A1952.jpg)
 
