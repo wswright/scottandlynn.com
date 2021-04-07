@@ -1,5 +1,5 @@
 ---
-title: Up close
-slug: /
+title: Facing camera
+slug: /facing-camera
 ---
-![Us up close](/img/2I5A2188.jpg)
+![Us facing the camera](/img/2I5A2188.jpg)
