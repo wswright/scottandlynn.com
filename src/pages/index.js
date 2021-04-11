@@ -18,7 +18,7 @@ const features = [
   // },
     {
         title: 'Details:',
-        imageUrl: 'img/undraw_docusaurus_tree.svg',
+        // imageUrl: 'img/undraw_docusaurus_tree.svg',
         description: (
             <>
                 Our wedding will be at the 1927 Lake Lure Inn & Spa in Lake Lure, NC on October 1st, 2021 from 5:30pm-10:00pm EST.
@@ -27,7 +27,7 @@ const features = [
     },
     {
       title: 'Stay:',
-      imageUrl: 'img/undraw_docusaurus_mountain.svg',
+      imageUrl: 'img/Front-Picture-of-Lake-Lure-Inn.jpg',
       description: (
         <>
             We have a room block at the 1927 Lake Lure Inn & Spa. To book your room and get our discounted rate, you must call the Inn, at <a href="tel:8286252525">(828)-625-2525</a> , and reference the "Kitchner – Wright Wedding".
@@ -38,7 +38,7 @@ const features = [
     },
   {
     title: 'Event Schedule:',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    // imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         <ul>
