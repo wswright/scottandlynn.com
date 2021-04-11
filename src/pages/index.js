@@ -18,7 +18,7 @@ const features = [
   // },
     {
         title: 'Details:',
-        // imageUrl: 'img/undraw_docusaurus_tree.svg',
+        // imageUrl: 'img/calendar.jpg',
         description: (
             <>
                 Our wedding will be at the 1927 Lake Lure Inn & Spa in Lake Lure, NC on October 1st, 2021 from 5:30pm-10:00pm EST.
