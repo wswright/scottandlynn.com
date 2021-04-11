@@ -7,33 +7,43 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
-  {
-    title: 'When?',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        Our wedding will be on October 1st, 2021.
-      </>
-    ),
-  },
-  {
-    title: 'Where?',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
-    description: (
-      <>
-          Our wedding will be at the 1927 Lake Lure Inn & Spa in Lake Lure, NC.
-      </>
-    ),
-  },
+  // {
+  //   title: 'When?',
+  //   imageUrl: 'img/undraw_docusaurus_mountain.svg',
+  //   description: (
+  //     <>
+  //       Our wedding will be on October 1st, 2021.
+  //     </>
+  //   ),
+  // },
+    {
+        title: 'Details:',
+        imageUrl: 'img/undraw_docusaurus_tree.svg',
+        description: (
+            <>
+                Our wedding will be at the 1927 Lake Lure Inn & Spa in Lake Lure, NC on October 1st, 2021 from 5:30pm-10:00pm EST.
+            </>
+        ),
+    },
+    {
+      title: 'Stay:',
+      imageUrl: 'img/undraw_docusaurus_mountain.svg',
+      description: (
+        <>
+            We have a room block at the 1927 Lake Lure Inn & Spa. To book your room and get our discounted rate, you must call the Inn, at <a href="tel:8286252525">(828)-625-2525</a> , and reference the "Kitchner – Wright Wedding".
+            <br /><br />
+            You can also book through AirBnB or VRBO. Make sure you know which side of the lake that you're booking on relative to the 1927 Lake Lure Inn & Spa.
+        </>
+      ),
+    },
   {
     title: 'Event Schedule:',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         <ul>
-            <li>Wedding Ceremony</li>
-            <li>Wedding Reception</li>
-            <li>Family Beach-side Campfire</li>
+            <li>Wedding Ceremony 5:30pm - 6:00pm @ Gardens Courtyard</li>
+            <li>Wedding Reception 6:00pm - 10:00pm @ Tanner Dining Room</li>
         </ul>
       </>
     ),

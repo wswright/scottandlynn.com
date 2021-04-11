@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Lynn and Scott.com',
-  tagline: 'We are getting married!',
+  tagline: 'We are getting married on October 1st, 2021!',
   url: 'https://lynnandscott.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
