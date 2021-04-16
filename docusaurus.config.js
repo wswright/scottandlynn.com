@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Lynn and Scott.com',
-  tagline: 'We are getting married on October 1st, 2021!',
+  title: 'Lynn and Scott',
+  tagline: 'Wedding Website',
   url: 'https://lynnandscott.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -46,7 +46,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        pics: {
+        docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
