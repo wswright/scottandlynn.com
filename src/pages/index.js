@@ -83,7 +83,7 @@ export default function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              View our engagement photos
+              View our pictures!
             </Link>
           </div>
         </div>

@@ -2,7 +2,7 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Engagement Photos',
+      label: 'Our Pictures',
       items: [
         'up-close',
         'facing-camera',

@@ -14,13 +14,13 @@ module.exports = {
       title: 'LynnandScott.com',
       logo: {
         alt: 'We are getting married!',
-        src: 'img/logo.svg',
+        src: 'img/yellow_heart.png',
       },
       items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Engagement Pictures',
+          label: 'Our Pictures',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
