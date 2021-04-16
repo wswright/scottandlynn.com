@@ -6,10 +6,12 @@
  */
 
 .heroBanner {
+  background: url(/img/spacebackground.png) no-repeat fixed center;
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: white;
 }
 
 @media screen and (max-width: 966px) {
