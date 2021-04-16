@@ -6,7 +6,7 @@
  */
 
 .heroBanner {
-  background: url(/img/galaxy.jpg) no-repeat fixed center;
+  background: url(/img/galaxy.jpg) no-repeat center;
   padding: 4rem 0;
   text-align: center;
   position: relative;

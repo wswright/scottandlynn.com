@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Lynn and Scott',
+  title: 'Lynn & Scott',
   tagline: 'Wedding Website',
   url: 'https://lynnandscott.com',
   baseUrl: '/',
