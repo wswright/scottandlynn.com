@@ -12,6 +12,7 @@
   position: relative;
   overflow: hidden;
   color: white;
+  text-shadow: 2px 2px rgb(85, 137, 141);
 }
 
 @media screen and (max-width: 966px) {
