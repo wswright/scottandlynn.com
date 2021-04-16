@@ -10,6 +10,11 @@ module.exports = {
   organizationName: 'wswright', // Usually your GitHub org/user name.
   projectName: 'scottandlynn.com', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true, //:)
+    },
     navbar: {
       title: 'LynnandScott.com',
       logo: {
