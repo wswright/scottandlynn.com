@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/yellow_heart.png',
   organizationName: 'wswright', // Usually your GitHub org/user name.
   projectName: 'scottandlynn.com', // Usually your repo name.
   themeConfig: {
