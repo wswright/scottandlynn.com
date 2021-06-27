@@ -73,6 +73,7 @@ export default function Home() {
       title={`Lynn and Scott are getting married!`}
       description="Lynn and Scott">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
+          <script type="text/javascript" src="https://lynnandscott.rsvpify.com/embed" />
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
