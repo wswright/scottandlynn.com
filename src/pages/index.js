@@ -27,7 +27,7 @@ const features = [
     },
     {
       title: 'Stay:',
-      imageUrl: 'img/Front-Picture-of-Lake-Lure-Inn.jpg',
+      //imageUrl: 'img/Front-Picture-of-Lake-Lure-Inn.jpg',
       description: (
         <>
             We have a room block at the 1927 Lake Lure Inn & Spa. To book your room and get our discounted rate, you must call the Inn, at <a href="tel:8286252525">(828)-625-2525</a> , and reference the "Kitchner – Wright Wedding".

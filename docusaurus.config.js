@@ -39,7 +39,7 @@ module.exports = {
     footer: {
         "style": "dark",
         "links": [],
-        "copyright": "No Copyright © 2021  Built with Docusaurus. <marquee><img alt='cartoon picture of a corgi' src='/img/corg.png' style='width: 65px;height: 50px;'/> &nbsp;&nbsp;&nbsp; MORE DETAILS COMING SOON</marquee>"
+        "copyright": "No Copyright © 2021  Built with Docusaurus. <marquee><img alt='cartoon picture of a corgi' src='/img/corg.png' style='width: 65px;height: 50px;'/></marquee>"
     },
   },
   presets: [
